@@ -1,0 +1,11 @@
+__pycache__/
+img1.jpg
+test.py
+/facenet_pytorch/
+/img/
+data/
+face_cropped.jpg
+static/result/
+/weights/
+/utils/__pycache__/
+static/images/
